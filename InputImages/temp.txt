@@ -1,1 +1,1 @@
-
+This is where images will be read from (This can be updated to read image from any folder by updating the code)
