@@ -31,7 +31,8 @@ files=sorted(glob.glob('./InputImages/*')) #Must be Segmented Single Cells on Bl
 #Initialize Registration Method
 selx = sitk.ElastixImageFilter()
 selx.SetParameterMap(selx.GetDefaultParameterMap('nonrigid'))
-    
+selx.LogToConsoleOff()   
+
 #For each file loop
 for n,file in enumerate(files):
     name=file.split('/')[-1]
