@@ -1,5 +1,5 @@
 # Cells2Circles
-Turns Amorphous Cells to Circles for Easier Analysis Disreagarding Shape and Size
+Turns Amorphous Cells to Circles for Easier Analysis Disreagarding Shape and Size.
 This work is first published and citable at: https://www.biorxiv.org/content/10.1101/2021.04.22.441005v2
 
 ## Introduction
