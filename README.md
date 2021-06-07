@@ -1,5 +1,6 @@
 # Cells2Circles
 Turns Amorphous Cells to Circles for Easier Analysis Disreagarding Shape and Size
+This work is first published and citable at: https://www.biorxiv.org/content/10.1101/2021.04.22.441005v2
 
 ## Introduction
 This is an image processing pipeline that takes input Segmented Single Cell Images on a black background, and turns the amorphous shaped cells into uniform circles. This allows cells to analyzed in a method that is agnostic to their shapes and sizes to prevent irrelevant variables from confounding data analysis.
